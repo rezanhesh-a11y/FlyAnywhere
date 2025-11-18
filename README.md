@@ -19,7 +19,7 @@ The goal was not to build a full product, but to practice:
 Inspiration
 
 The design is inspired by Kiwi.com and Skyscanner.
-Both apps are clean, but flexible dates are a bit hidden —
+Both apps are clean, but flexible dates are a bit hidden -
 so I created a smaller, simpler version focused only on flexible travel.
 
 
