@@ -14,7 +14,7 @@ The goal was not to build a full product, but to practice:
 	•	Handling user inputs
 	•	Creating a simple, intuitive UX flow
 
-⸻
+
 
 Inspiration
 
@@ -22,7 +22,7 @@ The design is inspired by Kiwi.com and Skyscanner.
 Both apps are clean, but flexible dates are a bit hidden —
 so I created a smaller, simpler version focused only on flexible travel.
 
-⸻
+
 
 Features
 	•	Select trip type (Return / One-way)
@@ -32,7 +32,7 @@ Features
 	•	Mock flight results generated dynamically
 	•	Clean SwiftUI interface
 
-⸻
+
 
 Tech Stack
 	•	SwiftUI
@@ -41,19 +41,19 @@ Tech Stack
 	•	Sheets & DatePickers
 	•	Custom mock data generator
 
-⸻
+
 
 
 Project Structure
 
-├── Kiwi.com/          # Main SwiftUI app
-├── MockDeal.swift     # Mock data generator
-├── ResultsView.swift  # Flight results list
-├── SearchView.swift   # Main search screen
-└── Assets.xcassets    # Icons & images
+ Kiwi.com          # Main SwiftUI app
+ MockDeal.swift     # Mock data generator
+ ResultsView.swift  # Flight results list
+ SearchView.swift   # Main search screen
+ Assets.xcassets    # Icons & images
 
 
-⸻
+
 
 Next Steps
 	•	Add real flight API
@@ -61,11 +61,10 @@ Next Steps
 	•	Improve UI with animations
 	•	Save recent searches
 
-⸻
+
 
 License
 
-MIT License – feel free to use or modify the project.
+MIT License - feel free to use or modify the project.
 
-⸻
 
